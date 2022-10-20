@@ -1,0 +1,47 @@
+button{
+    background-color: aquamarine;
+    border-radius: 5px;
+    border-color: aquamarine;
+}
+h1{
+    color: rgb(77, 141, 120);
+}
+form{
+    text-align: justify
+}
+.magreza-grave{
+    background-color: darkgreen;
+    color: white;
+}
+.magreza-moderada{
+    background-color: green;
+    color: white;
+}
+.magreza-leve{
+    background-color: greenyellow;
+}
+.saudavel{
+    background-color: yellowgreen;
+}
+.sobrepeso{
+    background-color: yellow;
+}
+.obesidade1{
+    background-color: orange;
+    color: white;
+}
+.obesidade2{
+    background-color: orangered;
+    color: white;
+}
+.obesidade3{
+    background-color: red;
+    color: white;
+}
+#resultado2{
+    display: inline;
+    font-size: 25px;
+}
+#resultado1{
+    font-size: 20px;
+}
